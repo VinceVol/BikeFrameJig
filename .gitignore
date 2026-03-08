@@ -2,6 +2,7 @@
 # Backup files (e.g., Project.FCStd1, Project.FCStd2)
 *.FCStd?
 *.fcstd?
+*.FCBak?
 
 # Lock files created while a file is open (e.g., FreeCAD_1234.lock)
 *.lock
