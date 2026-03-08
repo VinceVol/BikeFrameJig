@@ -1,0 +1,17 @@
+# --- FreeCAD Specific ---
+# Backup files (e.g., Project.FCStd1, Project.FCStd2)
+*.FCStd?
+*.fcstd?
+
+# Lock files created while a file is open (e.g., FreeCAD_1234.lock)
+*.lock
+FreeCAD_*.lock
+
+# Temporary/Recovery files
+fc_recovery_file.*
+*.tmp
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
